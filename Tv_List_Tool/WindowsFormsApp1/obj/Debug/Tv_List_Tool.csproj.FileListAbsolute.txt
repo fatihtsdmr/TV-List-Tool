@@ -1,0 +1,11 @@
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\Tv_List_Tool.csproj.AssemblyReference.cache
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\Tv_List_Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.home_Page.resources
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\Tv_List_Tool.csproj.GenerateResource.cache
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\Tv_List_Tool.csproj.CoreCompileInputs.cache
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\faith\OneDrive\Masaüstü\Visual Studio Projeler\Tv_List_Tool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
